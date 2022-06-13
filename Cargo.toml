@@ -1,0 +1,17 @@
+[package]
+name = "natural-sort"
+description = "Provides function for natural sorting"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+authors = ["Philip Barlow"]
+readme = "README.md"
+repository = "https://github.com/bitbrain-za/lib-natural-sort-rs"
+keywords = [
+    "sort",
+    "text",
+    "human"
+]
+categories = [
+    "text-processing"
+]
